@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bac-eps-v1")(type "KiCad")(uri "C:/Users/Benny/Documents/Electronics/kicad/projects/Benny/Cube Sat/bac-hardware/resources/kicad-libraries/eps-v1/symbols/bac-eps-v1.kicad_sym")(options "")(descr ""))
+)

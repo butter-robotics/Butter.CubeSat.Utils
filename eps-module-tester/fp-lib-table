@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "bac-eps-v1")(type "KiCad")(uri "C:/Users/Benny/Documents/Electronics/kicad/projects/Benny/Cube Sat/bac-hardware/resources/kicad-libraries/eps-v1/footprints/bac-eps-v1.pretty")(options "")(descr ""))
+  (lib (name "Lables")(type "KiCad")(uri "C:/Users/Benny/Documents/Electronics/kicad/libs/icons/Lables.pretty")(options "")(descr ""))
+)
