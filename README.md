@@ -13,8 +13,8 @@ This repository contain open source utilities for the [Build a CubeSat](https://
     Dimensions: <br/>
     PCB: 50 x 50 mm; Mounting holes: 42 x 42 mm, M3.
 
-    <img src="https://github.com/butter-robotics/Butter.CubeSat.Utils/blob/master/assets/eps-module-tester-v1_0.png?raw=true" width="600px">
+    <img src="https://github.com/butter-robotics/Butter.CubeSat.Utils/blob/master/eps-module-tester/assets/eps-module-tester-v1_0.png?raw=true" width="600px">
 
-    <img src="https://github.com/butter-robotics/Butter.CubeSat.Utils/blob/master/assets/eps-module-tester-v1_1.png?raw=true" width="600px">
+    <img src="https://github.com/butter-robotics/Butter.CubeSat.Utils/blob/master/eps-module-tester/assets/eps-module-tester-v1_1.png?raw=true" width="600px">
 
-    <img src="https://github.com/butter-robotics/Butter.CubeSat.Utils/blob/master/assets/eps-module-tester-v1_3.png?raw=true" width="600px">
+    <img src="https://github.com/butter-robotics/Butter.CubeSat.Utils/blob/master/eps-module-tester/assets/eps-module-tester-v1_3.png?raw=true" width="600px">
