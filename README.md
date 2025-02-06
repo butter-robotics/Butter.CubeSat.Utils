@@ -1,6 +1,6 @@
 # Butter Robotics Cube Sat Utils
 
-This repository contain open source utilities for the [Build a CubeSat](https://codeberg.org/buildacubesat-project) project.
+This repository contains open source utilities for the [Build a CubeSat](https://codeberg.org/buildacubesat-project) project.
 
 # Utilities
 
