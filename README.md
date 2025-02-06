@@ -2,7 +2,7 @@
 
 This repository contains open source utilities for the [Build a CubeSat](https://codeberg.org/buildacubesat-project) project.
 
-# Utilities
+## Utilities
 
 1. **EPS Module BoB**
 
