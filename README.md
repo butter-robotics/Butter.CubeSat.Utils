@@ -11,7 +11,7 @@ This repository contains open source utilities for the [Build a CubeSat](https:/
     The broken out pads are placed close the the PCB edge to provide easy connection using [test hooks](https://www.digikey.com/en/products/filter/test-leads/grabbers-hooks/620) probes. <br/>
 
     Dimensions: <br/>
-    PCB: 50 x 50 mm; Mounting holes: 42 x 42 mm, M3.
+    PCB: 50 x 50 mm; Mounting holes: 42 x 42 mm, M3. [📐](https://github.com/butter-robotics/Butter.CubeSat.Utils/blob/master/eps-module-tester/assets/drawing.pdf)
 
     <img src="https://github.com/butter-robotics/Butter.CubeSat.Utils/blob/master/eps-module-tester/assets/eps-module-tester-v1_0.png?raw=true" width="600px">
 
